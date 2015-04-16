@@ -1,0 +1,18 @@
+tango  Making recovery
+tango After recovery state : 1000
+tango  # Taking CP : 1000
+charlie  Making recovery
+charlie After recovery state : 1000
+charlie  # Taking CP : 1000
+tango  # Sending : 3  to  ('127.0.0.1', 3450)
+charlie  # received : 3  from  (u'tango', ('127.0.0.1', 43157))
+tango  # Sending : 5  to  ('127.0.0.1', 3450)
+charlie  # received : 5  from  (u'tango', ('127.0.0.1', 43158))
+tango  # Sending : 1  to  ('127.0.0.1', 3450)
+charlie  # received : 1  from  (u'tango', ('127.0.0.1', 43159))
+tango  # Taking CP : 991
+charlie  # Taking CP : 1009
+tango  # Sending : 7  to  ('127.0.0.1', 3450)
+charlie  # received : 7  from  (u'tango', ('127.0.0.1', 43160))
+tango  # Sending : 8  to  ('127.0.0.1', 3450)
+charlie  # received : 8  from  (u'tango', ('127.0.0.1', 43161))

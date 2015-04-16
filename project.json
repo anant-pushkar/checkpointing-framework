@@ -1,0 +1,8 @@
+{
+	"name" 			: "checkpointing",
+	"description"	: "DS term Project",
+	"buildfile"		: "buildfile",
+	"runfile"		: "runfile",
+	"debugfile"		: "debugfile",
+	"type"			: "python"
+}
