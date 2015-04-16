@@ -6,7 +6,7 @@ A generic, layered framework for chackpointing and recovery in distributed syste
 
 Contributors:
 
-Anant Pushkar
-Harshit Gupta
-Manvendra Singh Tomar
+Anant Pushkar,
+Harshit Gupta,
+Manvendra Singh Tomar,
 Honey Joshi
